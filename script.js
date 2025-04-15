@@ -20,9 +20,9 @@ const quizData = [
   answer: "<80>"
 },
 {
-  question: "Which of the following is a backend language?",
-  options: ["HTML","CSS","JavaScript","PHP"],
-  answer: "PHP"
+  question: "Which tag is used to insert an image in HTML??",
+  options: ["<pic>","<img>","<image>","<media>"],
+  answer: "<img>"
 }
 ];
 
