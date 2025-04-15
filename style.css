@@ -1,0 +1,32 @@
+body {
+ font-family: Arial, sans-serif;
+ padding: 20px;
+}
+
+.quiz-container {
+ max-width: 600px;
+ margin: auto;
+}
+
+.question {
+ font-size: 1.2em;
+ margin-bottom: 10px;
+}
+
+.answers {
+ margin-bottom: 20px;
+}
+
+.answers label {
+ display: block;
+ margin-bottom: 8px;
+}
+
+#next-btn {
+ padding: 10px 20px;
+}
+
+#score {
+ font-size: 1.3em;
+ margin-top: 20px;
+}
